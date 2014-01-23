@@ -14,7 +14,6 @@ oguzhantasci.wordpress.com
 
 
 
-
 version 0.0.1
 -------------------
 Bu versiyonda 
