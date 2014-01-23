@@ -6,9 +6,7 @@ boxing-unboxing.
 function_fonksiyon.
 if-kosul.
 loops.
-variables. 
-
-konularına ait kodlar mevcuttur.
+variables  konularına ait kodlar mevcuttur.
 
 
 
