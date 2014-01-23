@@ -11,7 +11,8 @@ variables  konularına ait kodlar mevcuttur.
 
 
 
-
+About
+------------------------------
 
 When I learn java, I will share my java code.
 Java programlama dilini öğrenirken yazdığım java kodlarını paylaşıyor olacağım
