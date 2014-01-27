@@ -1,6 +1,6 @@
-package tipataması;
+package tipatamasi;
 
-public class tipataması {
+public class tipatamasi {
 	public static void main(String[] args)
 	{
 		byte b;
@@ -21,7 +21,7 @@ public class tipataması {
 }
 
 
-Ekran Çıktısı:
+/*Ekran Çıktısı:
 
 
 convertion of int to byte
@@ -32,3 +32,4 @@ d and i 323.142 323
 
 covertion of double to byte
 d and b 323.142 67
+*/
