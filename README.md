@@ -15,7 +15,9 @@ oguzhantasci.wordpress.com
 version 0.0.2
 -------------------
 Hipotenüs (hypotenyse) hesaplama
+
 Kod blogları
+
 Tip ataması
 
 
@@ -25,9 +27,13 @@ version 0.0.1
 Bu versiyonda 
 
 boxing-unboxing.
+
 function_fonksiyon.
+
 if-kosul.
+
 loops.
+
 variables  konularına ait kodlar mevcuttur.
 
 
