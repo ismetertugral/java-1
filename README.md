@@ -15,6 +15,8 @@ oguzhantasci.wordpress.com
 version 0.0.2
 -------------------
 Hipotenüs (hypotenyse) hesaplama
+Kod blogları
+Tip ataması
 
 
 
