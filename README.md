@@ -14,6 +14,8 @@ oguzhantasci.wordpress.com
 
 version 0.0.2
 -------------------
+Basic Stationery Shop System (Version 0.0.1)
+
 Hipotenüs (hypotenyse) hesaplama
 
 Kod blogları
