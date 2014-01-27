@@ -12,6 +12,10 @@ twitter.com/oguzhntasci
 oguzhantasc@gmail.com
 oguzhantasci.wordpress.com
 
+version 0.0.2
+-------------------
+Hipotenüs (hypotenyse) hesaplama
+
 
 
 version 0.0.1
