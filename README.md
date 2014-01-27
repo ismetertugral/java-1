@@ -20,6 +20,8 @@ Kod blogları
 
 Tip ataması
 
+Tip yükseltmesi
+
 
 
 version 0.0.1
