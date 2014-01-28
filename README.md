@@ -11,6 +11,16 @@ facebook.com/oguzhantasc
 twitter.com/oguzhntasci
 oguzhantasc@gmail.com
 oguzhantasci.wordpress.com
+version 0.0.3
+-------------------
+Array(Diziler)
+  -Tek Boyutlu
+  -Çift Boyutlu
+  -Üç Boyutlu
+
+String Giriş(Introduction String)
+
+
 
 version 0.0.2
 -------------------
