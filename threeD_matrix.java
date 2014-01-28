@@ -26,7 +26,7 @@ public class _3boyutlumatrix {
 /*
 Ekran Çıktısı/Screenshot
 
- 0 0 0 0 0 
+0 0 0 0 0 
 0 0 0 0 0 
 0 0 0 0 0 
 0 0 0 0 0 
