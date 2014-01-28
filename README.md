@@ -14,7 +14,8 @@ oguzhantasci.wordpress.com
 version 0.0.3
 -------------------
 Array(Diziler)
-  #-Tek Boyutlu
+
+  -Tek Boyutlu
   
   -Çift Boyutlu
   
