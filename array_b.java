@@ -7,8 +7,8 @@ public class diziler_b {
 	{	
 	
 	    /*new ifadesinde bellekte yer açmaya gerek yoktur. 
-	    Bu şekilde yapıldığında otomayik olarak bellek tanımlanır.
-	    In this process "a" is not necessary to express.
+	    Bu şekilde yapıldığında otomatik olarak bellek tanımlanır.
+	    In this process "new" is not necessary to express.
 	    It is done automatically.*/
 	    
 		
