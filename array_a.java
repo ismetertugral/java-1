@@ -4,6 +4,7 @@ public class diziler
 {
 	public static void main(String args [])
 	{
+	
 		int month_days[];
 		month_days=new int[12];//bellekte yer ayırır."new" meaning allocates memory.
 		
